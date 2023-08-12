@@ -1,4 +1,3 @@
-sudo su
 apt update -y
 echo install qemu-system
 apt install qemu-system &
