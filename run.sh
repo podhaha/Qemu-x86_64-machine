@@ -24,7 +24,7 @@ echo install ngrok ....
  echo complete ngrok
  sleep 1
  echo add disk
-qemu-img create -f qcow2 1.qcow2 20G
+qemu-img create -f qcow2 1.qcow2 27G
  sleep 1 
  echo 100%
  echo [__________]
